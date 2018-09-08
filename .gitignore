@@ -1,0 +1,13 @@
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Test/Dev Playground ###
+Playground
+
+### Node ###
+node_modules
+package-lock.json

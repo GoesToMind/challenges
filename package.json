@@ -1,0 +1,14 @@
+{
+   "name": "challenges",
+   "version": "1.0.0",
+   "description": "This project contains some problems with solution by HackerRank",
+   "main": "",
+   "scripts": {
+      "test": "tape ./**/**/*.test.js"
+   },
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "tape": "^4.9.1"
+   }
+}
