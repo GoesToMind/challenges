@@ -6,7 +6,7 @@ test('0022 - Testcase 0', t => {
    t.end();
 });
 
-test('0022 - Testcase 0', t => {
+test('0022 - Testcase 1', t => {
    t.deepEqual(solution.solveChallenge(5, 4), 0, 'It works!');
    t.end();
 });
